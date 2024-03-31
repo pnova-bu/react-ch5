@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Milk",
+      "quantity": 1,
+      "price": 2.99
+    },
+    { "id": 2, 
+      "listId": 1, 
+      "title": "Rice", 
+      "quantity": 1, 
+      "price": 0.99 },
+    {
+      "id": 3,
+      "listId": 1,
+      "title": "Cake Mix",
+      "quantity": 1,
+      "price": 1.99
+    },
+     {
+      "id": 4,
+      "listId": 1,
+      "title": "Bread",
+      "quantity": 2,
+      "price": 2.39
+    },
+     {
+      "id": 5,
+      "listId": 1,
+      "title": "Eggs",
+      "quantity": 1,
+      "price": 1.49
+    },
+     {
+      "id": 6,
+      "listId": 1,
+      "title": "Raisins",
+      "quantity": 1,
+      "price": 3.29
+    },
+     {
+      "id": 7,
+      "listId": 1,
+      "title": "Pork Chops",
+      "quantity": 6,
+      "price": 15.62
+    },
+     {
+      "id": 8,
+      "listId": 1,
+      "title": "Orange Juice",
+      "quantity": 1,
+      "price": 3.99
+    },
+    {
+      "id": 9,
+      "listId": 2,
+      "title": "Paper plates",
+      "quantity": 50,
+      "price": 4.99
+    },
+    {
+      "id": 10,
+      "listId": 2,
+      "title": "Pinata",
+      "quantity": 1,
+      "price": 9.99
+    },
+    {
+      "id": 11,
+      "listId": 2,
+      "title": "Table Cloth",
+      "quantity": 1,
+      "price": 5.75
+    },
+    {
+      "id": 12,
+      "listId": 2,
+      "title": "Soda",
+      "quantity": 80,
+      "price": 40.00
+    },
+    {
+      "id": 13,
+      "listId": 2,
+      "title": "Clown",
+      "quantity": 1,
+      "price": 125.00
+    },
+    {
+      "id": 14,
+      "listId": 2,
+      "title": "Balloons",
+      "quantity": 20,
+      "price": 12.99
+    },
+    {
+      "id": 15,
+      "listId": 2,
+      "title": "Birthday Cake",
+      "quantity": 1,
+      "price": 25.99
+    },
+    {
+      "id": 16,
+      "listId": 2,
+      "title": "Candles",
+      "quantity": 1,
+      "price": 2.99
+    }
+  ],
+  "lists": [
+    { "id": 1, "title": "Groceries" },
+    { "id": 2, "title": "Birthday Party" },
+    { "id": 3, "title": "Bills" },
+    { "id": 4, "title": "Vacation Packing" },
+    { "id": 5, "title": "" },
+  ]
+}
