@@ -109,13 +109,125 @@
       "title": "Candles",
       "quantity": 1,
       "price": 2.99
+    },
+    {
+      "id": 17,
+      "listId": 3,
+      "title": "Xbox Games",
+      "quantity": 3,
+      "price": 55.99
+    },
+    {
+      "id": 18,
+      "listId": 3,
+      "title": "Skates",
+      "quantity": 1,
+      "price": 125.99
+    },
+    {
+      "id": 19,
+      "listId": 3,
+      "title": "Slippers",
+      "quantity": 1,
+      "price": 15.29
+    },
+    {
+      "id": 20,
+      "listId": 3,
+      "title": "Sweater",
+      "quantity": 1,
+      "price": 25.99
+    },
+    {
+      "id": 21,
+      "listId": 3,
+      "title": "Concert tickets",
+      "quantity": 2,
+      "price": 250.00
+    },
+    {
+      "id": 22,
+      "listId": 3,
+      "title": "Necklace",
+      "quantity": 1,
+      "price": 330.00
+    },
+    {
+      "id": 23,
+      "listId": 3,
+      "title": "Bike",
+      "quantity": 1,
+      "price": 220.00
+    },
+    {
+      "id": 24,
+      "listId": 3,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 25,
+      "listId": 4,
+      "title": "Plane Ticket",
+      "quantity": 1,
+      "price": 138.99
+    },
+    {
+      "id": 26,
+      "listId": 4,
+      "title": "",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 27,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 28,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 29,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 30,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 31,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
+    },
+    {
+      "id": 32,
+      "listId": 4,
+      "title": "Basketball",
+      "quantity": 1,
+      "price": 28.99
     }
   ],
   "lists": [
     { "id": 1, "title": "Groceries" },
     { "id": 2, "title": "Birthday Party" },
-    { "id": 3, "title": "Bills" },
-    { "id": 4, "title": "Vacation Packing" },
-    { "id": 5, "title": "" },
+    { "id": 3, "title": "Christmas Presents" },
+    { "id": 4, "title": "Vacation" },
+    { "id": 5, "title": "Vegetable Garden" },
   ]
 }
