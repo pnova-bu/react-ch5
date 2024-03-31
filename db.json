@@ -13,41 +13,42 @@
       "quantity": 1, 
       "price": 0.99 },
     },
+    {
       "id": 3,
       "listId": 1,
       "title": "Cake Mix",
       "quantity": 1,
       "price": 1.99
     },
-     {
+    {
       "id": 4,
       "listId": 1,
       "title": "Bread",
       "quantity": 2,
       "price": 2.39
     },
-     {
+    {
       "id": 5,
       "listId": 1,
       "title": "Eggs",
       "quantity": 1,
       "price": 1.49
     },
-     {
+    {
       "id": 6,
       "listId": 1,
       "title": "Raisins",
       "quantity": 1,
       "price": 3.29
     },
-     {
+    {
       "id": 7,
       "listId": 1,
       "title": "Pork Chops",
       "quantity": 6,
       "price": 15.62
     },
-     {
+    {
       "id": 8,
       "listId": 1,
       "title": "Orange Juice",
