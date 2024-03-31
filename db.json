@@ -12,7 +12,7 @@
       "title": "Rice", 
       "quantity": 1, 
       "price": 0.99 },
-    {
+    },
       "id": 3,
       "listId": 1,
       "title": "Cake Mix",
