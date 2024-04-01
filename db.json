@@ -7,13 +7,6 @@
       "quantity": 1,
       "price": 2.99
     },
-    {
-      "id": 1,
-      "listId": 1,
-      "title": "Milk",
-      "quantity": 1,
-      "price": 2.99
-    },
     { "id": 2, 
       "listId": 1, 
       "title": "Rice", 
