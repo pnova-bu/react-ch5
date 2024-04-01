@@ -4,231 +4,228 @@
       "id": 1,
       "listId": 1,
       "title": "Milk",
+      "brand": "Hood",
       "quantity": 1,
+      "substitute": "yes",
+      "coupon": "no",
       "price": 2.99
     },
     { "id": 2, 
       "listId": 1, 
       "title": "Rice", 
-      "quantity": 1, 
+      "brand": "Uncle Bens",
+      "quantity": 1,
+      "substitute": "yes",
+      "coupon": "no", 
       "price": 0.99
     },
     {
       "id": 3,
       "listId": 1,
       "title": "Cake Mix",
+      "brand": "Betty Crocker",
+      "substitute": "no",
       "quantity": 1,
+      "coupon": "yes",
       "price": 1.99
     },
     {
       "id": 4,
       "listId": 1,
       "title": "Bread",
+      "brand": "Generic Store",
       "quantity": 2,
+      "substitute": "yes",
+      "coupon": "no",
       "price": 2.39
     },
     {
       "id": 5,
       "listId": 1,
       "title": "Eggs",
+      "brand": "Egglands Best",
       "quantity": 1,
+      "substitute": "no",
+      "coupon": "no",
       "price": 1.49
     },
     {
       "id": 6,
       "listId": 1,
       "title": "Raisins",
+      "brand": "Sunmaid",
       "quantity": 1,
+      "substitute": "no",
+      "coupon": "yes",
       "price": 3.29
     },
     {
       "id": 7,
-      "listId": 1,
-      "title": "Pork Chops",
-      "quantity": 6,
-      "price": 15.62
+      "listId": 2,
+      "title": "Harry Potter",
+      "author": "Rowling",
+      "publisher": "Scholastic",
+      "ISBN": "9780590353427",
+      "paperback": "yes",
+      "pages": 320
     },
     {
       "id": 8,
-      "listId": 1,
-      "title": "Orange Juice",
-      "quantity": 1,
-      "price": 3.99
+      "listId": 2,
+      "title": "Gone With the Wind",
+      "author": "Mitchell",
+      "publisher": "Scribner",
+      "ISBN": "9781451635621",
+      "paperback": "no",
+      "pages": 960
     },
     {
       "id": 9,
       "listId": 2,
-      "title": "Paper plates",
-      "quantity": 50,
-      "price": 4.99
+      "title": "Othello",
+      "author": "Shakespeare",
+      "publisher": "Simon and Schuster",
+      "ISBN": "9781501146299",
+      "paperback": "yes",
+      "pages": 416
     },
     {
       "id": 10,
       "listId": 2,
-      "title": "Pinata",
-      "quantity": 1,
-      "price": 9.99
+      "title": "Curious Tides",
+      "author": "Lacelle",
+      "publisher": "McElderry",
+      "ISBN": "9781665939270",
+      "paperback": "no",
+      "pages": 358
     },
     {
       "id": 11,
-      "listId": 2,
-      "title": "Table Cloth",
-      "quantity": 1,
-      "price": 5.75
+      "listId": 3,
+      "manufacturer": "Schwinn",
+      "color": "blue",
+      "framesize": "26in",
+      "gender": "mens",
+      "instock": 3,
+      "price": 455.99
     },
     {
       "id": 12,
-      "listId": 2,
-      "title": "Soda",
-      "quantity": 80,
-      "price": 40.00
+      "listId": 3,
+      "manufacturer": "Trek",
+      "color": "graphite",
+      "framesize": "29in",
+      "gender": "mens",
+      "instock": 5,
+      "price": 1495.00
     },
     {
       "id": 13,
-      "listId": 2,
-      "title": "Clown",
-      "quantity": 1,
-      "price": 125.00
+      "listId": 3,
+      "manufacturer": "Cannondale",
+      "color": "black",
+      "framesize": "24in",
+      "gender": "ladies",
+      "instock": 1,
+      "price": 699.99
     },
     {
       "id": 14,
-      "listId": 2,
-      "title": "Balloons",
-      "quantity": 20,
-      "price": 12.99
+      "listId": 4,
+      "item": "jeans",
+      "quantity": 5,
+      "TSArestriction": "no",
+      "liquid": "no",
+      "carryOn": "no",
+      "isPacked": "no"
+
     },
     {
       "id": 15,
-      "listId": 2,
-      "title": "Birthday Cake",
+      "listId": 4,
+      "item": "shampoo",
       "quantity": 1,
-      "price": 25.99
+      "TSArestriction": "yes",
+      "liquid": "yes",
+      "carryOn": "yes",
+      "isPacked": "no"
     },
     {
       "id": 16,
-      "listId": 2,
-      "title": "Candles",
-      "quantity": 1,
-      "price": 2.99
+      "listId": 4,
+      "item": "socks",
+      "quantity": 16,
+      "TSArestriction": "no",
+      "liquid": "no",
+      "carryOn": "no",
+      "isPacked": "no"
     },
     {
       "id": 17,
-      "listId": 3,
-      "title": "Xbox Games",
-      "quantity": 3,
-      "price": 55.99
+      "listId": 4,
+      "item": "camera",
+      "quantity": 1,
+      "TSArestriction": "no",
+      "liquid": "no",
+      "carryOn": "yes",
+      "isPacked": "yes"
     },
     {
       "id": 18,
-      "listId": 3,
-      "title": "Skates",
-      "quantity": 1,
-      "price": 125.99
+      "listId": 5,
+      "item": "tomatoes",
+      "quantity": 10,
+      "row": 1,
+      "harvestDays": 100,
+      "fullSun": "yes",
+      "variety": "Beefstake"
     },
     {
       "id": 19,
-      "listId": 3,
-      "title": "Slippers",
-      "quantity": 1,
-      "price": 15.29
+      "listId": 5,
+      "item": "potatoes",
+      "quantity": 8,
+      "row": 2,
+      "harvestDays": 80,
+      "fullSun": "yes",
+      "variety": "Yukon Gold"
     },
     {
       "id": 20,
-      "listId": 3,
-      "title": "Sweater",
-      "quantity": 1,
-      "price": 25.99
+      "listId": 5,
+      "item": "carrots",
+      "quantity": 75,
+      "row": 3,
+      "harvestDays": 70,
+      "fullSun": "yes",
+      "variety": "Cosmic Purple"
     },
     {
       "id": 21,
-      "listId": 3,
-      "title": "Concert tickets",
-      "quantity": 2,
-      "price": 250.00
+      "listId": 5,
+      "item": "lettuce",
+      "quantity": 12,
+      "row": 4,
+      "harvestDays": 40,
+      "fullSun": "no",
+      "variety": "Romaine"
     },
     {
       "id": 22,
-      "listId": 3,
-      "title": "Necklace",
-      "quantity": 1,
-      "price": 330.00
-    },
-    {
-      "id": 23,
-      "listId": 3,
-      "title": "Bike",
-      "quantity": 1,
-      "price": 220.00
-    },
-    {
-      "id": 24,
-      "listId": 3,
-      "title": "Basketball",
-      "quantity": 1,
-      "price": 28.99
-    },
-    {
-      "id": 25,
-      "listId": 4,
-      "title": "Plane Ticket",
-      "quantity": 1,
-      "price": 138.99
-    },
-    {
-      "id": 26,
-      "listId": 4,
-      "title": "Car rental",
-      "quantity": 1,
-      "price": 228.99
-    },
-    {
-      "id": 27,
-      "listId": 4,
-      "title": "Hotel",
-      "quantity": 6,
-      "price": 129.99
-    },
-    {
-      "id": 28,
-      "listId": 4,
-      "title": "luggage",
-      "quantity": 2,
-      "price": 99.99
-    },
-    {
-      "id": 29,
-      "listId": 4,
-      "title": "Sandals",
-      "quantity": 1,
-      "price": 54.50
-    },
-    {
-      "id": 30,
-      "listId": 4,
-      "title": "Hat",
-      "quantity": 1,
-      "price": 18.99
-    },
-    {
-      "id": 31,
-      "listId": 4,
-      "title": "Bathing Suit",
-      "quantity": 1,
-      "price": 68.99
-    },
-    {
-      "id": 32,
-      "listId": 4,
-      "title": "Sunscreen",
-      "quantity": 1,
-      "price": 8.99
+      "listId": 5,
+      "item": "asparagus",
+      "quantity": 20,
+      "row": 5,
+      "harvestDays": 150,
+      "fullSun": "no",
+      "variety": "Erasmus"
     }
   ],
   "lists": [
     { "id": 1, "title": "Groceries" },
-    { "id": 2, "title": "Birthday Party" },
-    { "id": 3, "title": "Christmas Presents" },
-    { "id": 4, "title": "Vacation" },
+    { "id": 2, "title": "Summer Reading" },
+    { "id": 3, "title": "Bicycle Inventory" },
+    { "id": 4, "title": "Vacation Packing" },
     { "id": 5, "title": "Vegetable Garden" }
   ]
 }
