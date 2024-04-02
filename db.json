@@ -3,182 +3,191 @@
     {
       "id": 1,
       "listId": 1,
-      "title": "Milk",
-      "brand": "Hood",
-      "quantity": 1,
-      "substitute": "yes",
-      "coupon": "no",
-      "price": 2.99
+      "item": "mums",
+      "quantity": 15,
+      "row": 12,
+      "harvestDays": 50,
+      "perennial": "yes",
+      "variety": "White Veil"
     },
     { "id": 2, 
       "listId": 1, 
-      "title": "Rice", 
-      "brand": "Uncle Bens",
-      "quantity": 1,
-      "substitute": "yes",
-      "coupon": "no", 
-      "price": 0.99
+      "item": "daisy",
+      "quantity": 15,
+      "row": 12,
+      "harvestDays": 60,
+      "perennial": "yes",
+      "variety": "Gerbera"
     },
     {
       "id": 3,
       "listId": 1,
-      "title": "Cake Mix",
-      "brand": "Betty Crocker",
-      "substitute": "no",
-      "quantity": 1,
-      "coupon": "yes",
-      "price": 1.99
+      "item": "petunia",
+      "quantity": 15,
+      "row": 13,
+      "harvestDays": 50,
+      "perennial": "no",
+      "variety": "Belle"
     },
     {
       "id": 4,
       "listId": 1,
-      "title": "Bread",
-      "brand": "Generic Store",
-      "quantity": 2,
-      "substitute": "yes",
-      "coupon": "no",
-      "price": 2.39
+      "item": "pansy",
+      "quantity": 15,
+      "row": 13,
+      "harvestDays": 60,
+      "perennial": "no",
+      "variety": "Starburst"
     },
     {
       "id": 5,
       "listId": 1,
-      "title": "Eggs",
-      "brand": "Egglands Best",
-      "quantity": 1,
-      "substitute": "no",
-      "coupon": "no",
-      "price": 1.49
+      "item": "rose",
+      "quantity": 30,
+      "row": 14,
+      "harvestDays": 100,
+      "perennial": "yes",
+      "variety": "Raven Red"
     },
     {
       "id": 6,
       "listId": 1,
-      "title": "Raisins",
-      "brand": "Sunmaid",
-      "quantity": 1,
-      "substitute": "no",
-      "coupon": "yes",
-      "price": 3.29
+      "item": "rose",
+      "quantity": 30,
+      "row": 15,
+      "harvestDays": 100,
+      "perennial": "yes",
+      "variety": "Tiny Tea"
     },
+
+
     {
       "id": 7,
       "listId": 2,
-      "title": "Harry Potter",
-      "author": "Rowling",
-      "publisher": "Scholastic",
-      "ISBN": "9780590353427",
-      "paperback": "yes",
-      "pages": 320
+      "item": "wheat",
+      "quantity": 150,
+      "row": 9,
+      "harvestDays": 120,
+      "perennial": "no",
+      "variety": "Sure Crop"
     },
     {
       "id": 8,
       "listId": 2,
-      "title": "Gone With the Wind",
-      "author": "Mitchell",
-      "publisher": "Scribner",
-      "ISBN": "9781451635621",
-      "paperback": "no",
-      "pages": 960
+      "item": "oats",
+      "quantity": 150,
+      "row": 10,
+      "harvestDays": 100,
+      "perennial": "no",
+      "variety": "Pearl"
     },
     {
       "id": 9,
       "listId": 2,
-      "title": "Othello",
-      "author": "Shakespeare",
-      "publisher": "Simon and Schuster",
-      "ISBN": "9781501146299",
-      "paperback": "yes",
-      "pages": 416
+      "item": "corn",
+      "quantity": 40,
+      "row": 11,
+      "harvestDays": 70,
+      "perennial": "no",
+      "variety": "Blue Passion"
     },
+
+
     {
       "id": 10,
-      "listId": 2,
-      "title": "Curious Tides",
-      "author": "Lacelle",
-      "publisher": "McElderry",
-      "ISBN": "9781665939270",
-      "paperback": "no",
-      "pages": 358
+      "listId": 3,
+      "item": "thyme",
+      "quantity": 5,
+      "row": 8,
+      "harvestDays": 45,
+      "perennial": "no",
+      "variety": "Orlangelo"
     },
     {
       "id": 11,
       "listId": 3,
-      "manufacturer": "Schwinn",
-      "color": "blue",
-      "framesize": "26in",
-      "gender": "mens",
-      "instock": 3,
-      "price": 455.99
+      "item": "basil",
+      "quantity": 5,
+      "row": 8,
+      "harvestDays": 45,
+      "perennial": "no",
+      "variety": "Thai"
     },
     {
       "id": 12,
       "listId": 3,
-      "manufacturer": "Trek",
-      "color": "graphite",
-      "framesize": "29in",
-      "gender": "mens",
-      "instock": 5,
-      "price": 1495.00
+      "item": "parsley",
+      "quantity": 5,
+      "row": 8,
+      "harvestDays": 45,
+      "perennial": "no",
+      "variety": "Curly Cue"
     },
     {
       "id": 13,
       "listId": 3,
-      "manufacturer": "Cannondale",
-      "color": "black",
-      "framesize": "24in",
-      "gender": "ladies",
-      "instock": 1,
-      "price": 699.99
+      "item": "mint",
+      "quantity": 5,
+      "row": 8,
+      "harvestDays": 45,
+      "perennial": "yes",
+      "variety": "Spearmint"
     },
+
+
+
     {
       "id": 14,
       "listId": 4,
-      "item": "jeans",
-      "quantity": 5,
-      "TSArestriction": "no",
-      "liquid": "no",
-      "carryOn": "no",
-      "isPacked": "no"
-
+      "item": "blackberry",
+      "quantity": 6,
+      "row": 6,
+      "harvestDays": 60,
+      "perennial": "yes",
+      "variety": "Green Giant"
     },
     {
       "id": 15,
       "listId": 4,
-      "item": "shampoo",
-      "quantity": 1,
-      "TSArestriction": "yes",
-      "liquid": "yes",
-      "carryOn": "yes",
-      "isPacked": "no"
+      "item": "strawberry",
+      "quantity": 25,
+      "row": 7,
+      "harvestDays": 60,
+      "perennial": "yes",
+      "variety": "Allstar "
     },
     {
       "id": 16,
       "listId": 4,
-      "item": "socks",
-      "quantity": 16,
-      "TSArestriction": "no",
-      "liquid": "no",
-      "carryOn": "no",
-      "isPacked": "no"
+      "item": "raspberry",
+      "quantity": 6,
+      "row": 6,
+      "harvestDays": 90,
+      "perennial": "no",
+      "variety": "Gold Beauty"
     },
     {
       "id": 17,
       "listId": 4,
-      "item": "camera",
-      "quantity": 1,
-      "TSArestriction": "no",
-      "liquid": "no",
-      "carryOn": "yes",
-      "isPacked": "yes"
+      "item": "blueberry",
+      "quantity": 4,
+      "row": 6,
+      "harvestDays": 100,
+      "perennial": "yes",
+      "variety": "Jersey"
     },
+
+
+
     {
       "id": 18,
       "listId": 5,
-      "item": "tomatoes",
-      "quantity": 10,
+      "item": "beans",
+      "quantity": 15,
       "row": 1,
       "harvestDays": 100,
-      "fullSun": "yes",
-      "variety": "Beefstake"
+      "perennial": "no",
+      "variety": "Green Giant"
     },
     {
       "id": 19,
@@ -187,7 +196,7 @@
       "quantity": 8,
       "row": 2,
       "harvestDays": 80,
-      "fullSun": "yes",
+      "perennial": "no",
       "variety": "Yukon Gold"
     },
     {
@@ -197,7 +206,7 @@
       "quantity": 75,
       "row": 3,
       "harvestDays": 70,
-      "fullSun": "yes",
+      "perennial": "no",
       "variety": "Cosmic Purple"
     },
     {
@@ -207,7 +216,7 @@
       "quantity": 12,
       "row": 4,
       "harvestDays": 40,
-      "fullSun": "no",
+      "perennial": "no",
       "variety": "Romaine"
     },
     {
@@ -217,15 +226,16 @@
       "quantity": 20,
       "row": 5,
       "harvestDays": 150,
-      "fullSun": "no",
+      "perennial": "no",
       "variety": "Erasmus"
     }
+
   ],
   "lists": [
-    { "id": 1, "title": "Groceries" },
-    { "id": 2, "title": "Summer Reading" },
-    { "id": 3, "title": "Bicycle Inventory" },
-    { "id": 4, "title": "Vacation Packing" },
-    { "id": 5, "title": "Vegetable Garden" }
+    { "id": 1, "title": "Flowers" },
+    { "id": 2, "title": "Grain" },
+    { "id": 3, "title": "Herbs" },
+    { "id": 4, "title": "Fruit" },
+    { "id": 5, "title": "Vegetables" }
   ]
 }
